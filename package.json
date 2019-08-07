@@ -35,8 +35,7 @@
     "test:watch": "mocha -w",
     "transpile": "echo ok",
     "package": "bash package.sh",
-    "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "snyk-protect": "snyk protect"
   },
   "nyc": {
     "all": true,
