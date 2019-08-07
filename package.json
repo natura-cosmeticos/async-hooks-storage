@@ -1,5 +1,5 @@
 {
-  "main": "async-hooks-storage.js",
+  "main": "index.js",
   "name": "@naturacosmeticos/async-hooks-storage",
   "author": "Natura Cosméticos <TDDAArquitetura@natura.net>",
   "version": "1.0.0",
